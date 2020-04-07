@@ -5,3 +5,4 @@
 
 ## 安装JMeter
 1.配置JDK1.8，https://www.jianshu.com/p/a85658902f26；</br>
+2.下载二进制版本的JMeter，http://jmeter.apache.org/download_jmeter.cgi</br>
