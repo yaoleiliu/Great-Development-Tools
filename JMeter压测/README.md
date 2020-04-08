@@ -10,5 +10,7 @@
 3.解压后，进入bin目录，sh jmeter启动
 
 ## 开始压测
-### 1.新建一个线程组
+### 1.新建一个线程组并设置参数
 ![新建线程组](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/2.png)
+~</br>
+![设置线程组参数](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/3.png)
