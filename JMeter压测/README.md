@@ -30,5 +30,8 @@
 ~</br>
 ![查看结果](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/9.png)
 
+### 5.批量设置参数
+https://www.cnblogs.com/puresoul/p/4742120.html
+
 ## 指标
 对这方面还没有深入的研究，我一般只看响应时间有没有显著增加。
