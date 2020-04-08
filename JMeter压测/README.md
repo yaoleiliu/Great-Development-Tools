@@ -6,3 +6,8 @@
 ## 安装JMeter
 1.配置JDK1.8，https://www.jianshu.com/p/a85658902f26</br>
 2.下载二进制版本的JMeter，http://jmeter.apache.org/download_jmeter.cgi</br>
+3.解压后，进入bin目录，sh jmeter启动
+
+## 开始压测
+### 1.新建一个线程组
+![新建线程组](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/1.png)
