@@ -14,3 +14,21 @@
 ![新建线程组](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/2.png)
 ~</br>
 ![设置线程组参数](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/3.png)
+
+### 2.新建http请求默认值
+![新建http请求默认值](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/4.png)
+~</br>
+![设置参数](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/5.png)
+
+### 3.新建压测http请求
+![新建http请求](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/6.png)
+~</br>
+![设置参数](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/7.png)
+
+### 4.新建监听器
+![新建监听器](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/8.png)
+~</br>
+![查看结果](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/9.png)
+
+## 指标
+对这方面还没有深入的研究，我一般只看响应时间有没有显著增加。
